@@ -1,0 +1,114 @@
+"data": [
+
+        {
+            "id": 1,
+            "question": "Periodiek planning taken en werkzaamheden maken."
+        },
+        {
+            "id": 2,
+            "question": "Bevorderen samenwerking leidingteam, zowel voor jeugdleden als voor leiding onderling."
+        },
+        {
+            "id": 3,
+            "question": "Bevorderen taakverdeling leidingteam, zowel voor jeugdleden als voor leiding onderling."
+        },
+        {
+            "id": 4,
+            "question": "Bevorderen gezamenlijke verantwoordelijkheid leidingteam, zowel voor jeugdleden als voor leiding onderling."
+        },
+        {
+            "id": 5,
+            "question": "Tonen daadkracht ten aanzien van veiligheid en optreden indien nodig."
+        },
+        {
+            "id": 6,
+            "question": "Leiderschap tonen bij crisis (voorspelbare situatie)"
+        },
+        {
+            "id": 7,
+            "question": "Aanpassen eigen houding situatie van het moment."
+        },
+        {
+            "id": 8,
+            "question": "Aanpassen eigen gedrag situatie van het moment."
+        },
+        {
+            "id": 9,
+            "question": "Juist afhandelen ongeval (onvoospelbare situatie) richting jeugdlid en ouders, in samenwerking met groepsbestuur."
+        }
+        {
+            "id": 1,
+            "question": "Belang van de kwaliteit van het activiteitenprogramma."
+        },
+        {
+            "id": 2,
+            "question": "Bewaken kwalititeit van het activiteitenprogramma, rekening houdend met de progressiematrix."
+        },
+        {
+            "id": 3,
+            "question": "Actieve rol aannemen in begeleiding nieuwe teamleden tijdens introductiefase."
+        },
+        {
+            "id": 4,
+            "question": "Kwaliteit leidingteam bewaken, in overleg met team"
+        },
+        {
+            "id": 5,
+            "question": "Kwaliteit leidingteam verbeteren, in overleg met team"
+        },
+        {
+            "id": 6,
+            "question": "Kwaliteit leidingteam bewaken, in overleg met groeps- en praktijkbegeleider"
+        },
+        {
+            "id": 7,
+            "question": "Kwaliteit leidingteam verbeteren, in overleg met groeps- en praktijkbegeleider"
+        },
+        {
+            "id": 8,
+            "question": "Ontwikkelplan team opstellen, in overleg met groeps- em praktijkbegeleider"
+        },
+        {
+            "id": 9,
+            "question": "Complexe leeftijds- en gedragskenmerken in de eigen en naastliggende speltak verklaren, rekening houdend met ontwikkeling brein."
+        },
+        {
+            "id": 10,
+            "question": "Binnen leidingteam reflecteren op elkaars houding en gedrag."
+        },
+        {
+            "id": 11,
+            "question": "Stimuleren en motiveren teamleden in houdig en gedrag goed voorbeeld te geven."
+        },
+        {
+            "id": 12,
+            "question": "Initiatief (regelmatig) teamoverleg en evaluatie leidingteam."
+        },
+        {
+            "id": 13,
+            "question": "Zorgen zinvol overleg/evaluatie voor samenwerking en kwaliteit van spel."
+        }
+    ],
+    "three": [
+        {
+            "id": 1,
+            "question": "Actief participeren in overleg met eigen inbreng en afstemmig."
+        },
+        {
+            "id": 2,
+            "question": "Inzien noodzaak juiste taakverdeling."
+        },
+        {
+            "id": 3,
+            "question": "Eigen werkzaamheden afstemmen met overige teamleden."
+        },
+        {
+            "id": 4,
+            "question": "Op bekwame wijze speleenheid vertegenwoordigen binnen groep (contacten andere teamleiders, aanspreekpunt ouders)."
+        },
+        {
+            "id": 5,
+            "question": "Op bekwame wijze speleenheid vertegenwoordigen buiten groep (contacten teamleiders andere groepen, regio)."
+        }
+    ]
+]
